@@ -1,0 +1,13 @@
+[rfid-bridge] Entering main reader loop...
+[rfid-bridge] calling transceive
+[rfid-bridge] transceive returned 27
+[rfid-bridge] loop processing tags
+[rfid-bridge] refreshing tag data for E0040150111265C1
+[rfid-bridge] refreshTagData start for E0040150111265C1
+[rfid-bridge] trying 28 blocks
+[rfid-bridge] rawReadMultipleBlocks called
+[rfid-bridge] rawReadMultipleBlocks FEUSB_Transceive
+[rfid-bridge] rawReadMultipleBlocks FEUSB_Transceive returned 143
+[rfid-bridge] rawReadMultipleBlocks calculating OutBlockSize...
+[rfid-bridge] rawReadMultipleBlocks filling outData...
+[rfid-bridge] rawReadMultipleBlocks done. outData size 108
